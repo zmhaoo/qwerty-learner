@@ -1,5 +1,5 @@
 <div align=center>
-<img  src="../src/assets/logo.svg"/>
+<img  src="../src/assets/logo.svg" alt="青空日语薄 Logo"/>
 </div>
 
 <h1 align="center">
@@ -28,7 +28,7 @@
 
 ## 📸 オンラインアクセス
 
-Vercel: <https://qwerty.kaiyi.cool/> , <https://qwerty-learner.vercel.app/>
+Vercel: <https://qwerty-learner.vercel.app/>
 GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 Gitee Pages: <https://kaiyiwing.gitee.io/qwerty-learner/>
 
